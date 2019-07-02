@@ -1,0 +1,28 @@
+.cell {
+  display: inline-block;
+  min-width: 55px;
+  text-align: center;
+  background-color: blanchedalmond;
+  border: 1px black solid;
+
+  &:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
+
+  &.marked {
+    background-color: red;
+  }
+
+  &.disabled {
+    opacity: 0.2;
+    cursor: crosshair;
+  }
+
+  .mark {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: aquamarine;
+  }
+}

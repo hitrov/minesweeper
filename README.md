@@ -1,3 +1,17 @@
+Quick start:
+
+1. Select level with number input.
+2. Click `New game`
+3. Start playing by clicking (opening) cells.
+4. Flag mines by clicking small top-left `aquamarine` squares.
+
+Or push `Start solver` button, if human attention will be needed, you'll see `Solver needs assistance, please click any unexposed cell to proceed`.
+
+Simple algorythm can solve `1st` level *almost always*, the `2nd` *usually* with assistance.
+Seems like `3rd` and `4th` are not suitable for it, it requires *too much* attention.
+
+Build (see below) can increase performance significantly.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
