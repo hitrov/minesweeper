@@ -1,3 +1,5 @@
+Live version: https://mines.hitrov.com/
+
 Quick start:
 
 1. Select level with number input.
@@ -8,7 +10,7 @@ Quick start:
 Or push `Start solver` button, if human attention will be needed, you'll see `Solver needs assistance, please click any unexposed cell to proceed`.
 
 Simple algorythm can solve `1st` level *almost always*, the `2nd` *usually* with assistance.
-Seems like `3rd` and `4th` are not suitable for it, it requires *too much* attention.
+For `3rd` and `4th` it requires *much* attention, but it's just because *all the moves* and *flag* actions are **100% safe**.
 
 Build (see below) can increase performance significantly.
 
