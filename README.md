@@ -7,6 +7,8 @@ Quick start:
 3. Start playing by clicking (opening) cells.
 4. Flag mines by clicking small top-left `aquamarine` squares.
 
+For the `2+` level(s) it's recommended to adjust page scale.
+
 Or push `Start solver` button, if human attention will be needed, you'll see `Solver needs assistance, please click any unexposed cell to proceed`.
 
 Simple algorythm can solve `1st` level *almost always*, the `2nd` *usually* with assistance.
