@@ -16,6 +16,8 @@ For `3rd` and `4th` it requires *much* attention, but it's just because *all the
 
 Build (see below) can increase performance significantly.
 
+![demo](demo.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
