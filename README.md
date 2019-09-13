@@ -1,3 +1,5 @@
+Requirements are [here](requirements.png)
+
 Live version: https://mines.hitrov.com/
 
 Quick start:
